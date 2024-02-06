@@ -36,7 +36,7 @@ The aim of this laboratory is to gain hand on experience with various different 
 
 ## Instructions and LabSheet
 
-Please follow the instruction on the [Laboratory Sheet](B18_Labsheet_HT2024.pdf)
+Please follow the instruction on the [Laboratory Sheet](B18-Wearables-Laboratory_sheet.pdf)
 
 ## Submisison 
 
