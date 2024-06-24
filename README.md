@@ -40,5 +40,5 @@ Please follow the instruction on the [Laboratory Sheet](B18-Wearables-Laboratory
 
 ## Submisison 
 
-Completed lab reports can be submitted through [canvas.ox.ac.uk](https://login.canvas.ox.ac.uk/)
+Completed lab reports can be submitted through [canvas.ox.ac.uk](https://canvas.ox.ac.uk/)
 
