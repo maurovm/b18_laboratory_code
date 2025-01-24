@@ -36,7 +36,7 @@ The aim of this laboratory is to gain hand on experience with various different 
 
 ## Instructions and LabSheet
 
-Please follow the instruction on the [Laboratory Sheet](B18-Wearables-Laboratory_sheet.pdf)
+Please follow the instruction on the [Laboratory Sheet](3B18-Wearable_technology-Laboratory_sheet-Rev_1.pdf)
 
 ## Submisison 
 
